@@ -1,0 +1,62 @@
+.jumbotron { 
+    /* ini ngasih warna background belakang*/
+    padding-top: 6rem;
+    /* atas,kanan,bawah,kiri */
+    background-color:#e2edff;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+#Riwayat{
+    background-color: #e2edff;
+}
+
+
+#achievment{
+    background-color: #e2edff;
+}
+.gmbr{
+ overflow:hidden ;
+} 
+
+.pend-1:hover{
+border: #141516 1px solid !important;
+}
+ 
+.gmbr2{
+    overflow:hidden ;
+}
+.pend-2:hover{
+    border: #141516 1px solid !important;
+}
+
+.gmbr-3{
+    overflow:hidden ;
+}
+.pend-3:hover{
+    border: #141516 1px solid !important;
+}
+
+.sertif-1{
+    overflow:hidden ;
+}
+.sert-1:hover{
+    border: #141516 1px solid !important;
+}
+
+.sertif-1{
+    overflow:hidden ;
+}
+
+.sert-2:hover{
+    border: #141516 1px solid !important;
+}
+
+.hargaan{
+    overflow:hidden ;
+}
+.peng:hover{
+    border: #141516 1px solid !important;
+}
